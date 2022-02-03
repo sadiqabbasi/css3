@@ -1,0 +1,135 @@
+body{
+    background: grey;
+}
+.box1{
+    
+    color: rgb(117, 2, 117);
+    background: white;
+    border-radius: 15px;
+    border: 8px solid red;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    text-shadow: #FC0 1px 0 10px;
+    box-shadow: 10px 10px 5px rgb(68, 0, 77);
+    margin-top: 15px;
+
+}
+.box2{
+    border: 5px solid green;
+    height: 1324px;
+    height: 600px;
+}
+.box3{
+    color: rgb(117, 2, 117);
+    background: white;
+    border-radius: 15px;
+    border: 4px solid red;
+    text-align: center;
+    width: 200px;
+    height: 240px;
+    text-shadow: #FC0 1px 0 10px;
+    box-shadow: 10px 10px 5px rgb(68, 0, 77);
+    display: inline-block;
+    margin-left: 5px;
+}
+.box4{
+    color: rgb(117, 2, 117);
+    background: white;
+    border-radius: 15px;
+    border: 4px solid red;
+    text-align: center;
+    width: 200px;
+    height: 240px;
+    box-shadow: 10px 10px 5px rgb(68, 0, 77);
+    float: right;
+    margin-right: 50px;
+}
+.box5{
+    color: rgb(117, 2, 117);
+    background: white;
+    border-radius: 15px;
+    border: 4px solid red;
+    text-align: center;
+    width: 200px;
+    height: 240px;
+    text-shadow: #FC0 1px 0 10px;
+    box-shadow: 10px 10px 5px rgb(68, 0, 77);
+    margin-left: 5px;
+    margin-top: 84px;
+}
+
+.box6{
+    color: rgb(117, 2, 117);
+    background: white;
+    border-radius: 15px;
+    border: 4px solid red;
+    text-align: center;
+    width: 200px;
+    height: 240px;
+    text-shadow: #FC0 1px 0 10px;
+    box-shadow: 10px 10px 5px rgb(68, 0, 77);
+    float: right;
+    position: relative;
+    top: -242px;
+    margin-right: 50px;
+}
+.boxfixed{
+    background-color: rgb(132, 255, 132);
+    border: 4px solid red;
+    height: 50px;
+    width: 400px;
+    border-radius: 15px;
+    position: fixed;
+    top: 500px;
+    left: 400px;
+    text-align: left;
+    padding: 20px;
+    color: rgb(219, 6, 6);
+    box-shadow: 5px 5px purple;
+}
+span{
+    float: right;
+    font-size: 18px;
+    position: relative;
+    top: -16px;
+
+}
+.bigdiv{
+    border: 4px solid purple;
+    background-color: rgb(21, 99, 21);
+    height: 710px;
+    width: 700px;
+    margin-left: 350px;
+    text-align: center;
+    margin-top: 10px;
+}
+.smalldiv1{
+        background-color: rgb(251, 250, 169);
+        height:300px;
+        width:320px;
+        margin: 10px;
+        display: inline-block;
+        line-height: 30px;
+        font-size: 15px;
+        position: relative;
+        left: -28px
+}
+.smalldiv2{
+    background-color: rgb(251, 250, 169);
+    height:300px;
+    width:320px;
+    float: right;
+    margin-top: 10px;
+    line-height: 30px;
+    font-size: 15px;
+
+}
+.smalldiv3{
+    background-color: rgb(251, 250, 169);
+    height:300px;
+    width:705px; 
+    line-height: 30px;
+    font-size: 15px; 
+    padding-top: 5px;
+}
